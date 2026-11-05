@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⚡ Parallel Distance Calculation — Fork/Join
+# ⚡ Parallel Distance Calculation - Fork/Join
 
 ### Java · Concurrency · Fork/Join · Performance
 
@@ -30,8 +30,8 @@ java Main
 
 ## Files
 
-- `Main.java` — driver and timing comparison
-- `DistanceCalculator.java`, `DistanceTask.java` — Fork/Join task implementation
-- `Point.java` — point representation
+- `Main.java` - driver and timing comparison
+- `DistanceCalculator.java`, `DistanceTask.java` - Fork/Join task implementation
+- `Point.java` - point representation
 
 > Originally a Java Programming II (CIS 36B) project, extracted here as a standalone repo from [java-algorithms-and-concurrency](https://github.com/afshinmalek/java-algorithms-and-concurrency).
